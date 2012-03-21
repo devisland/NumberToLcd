@@ -1,3 +1,13 @@
+# Copyright(c) 2012 DevIsland.
+# http://www.facebook.com/DevIsland
+#
+# ----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE":
+# DevIsland members wrote this file. As long as you retain this notice you
+# can do whatever you want with this stuff. If we meet some day, and you think
+# this stuff is worth it, you can buy us a beer in return.
+# ----------------------------------------------------------------------------
+
 import unittest
 
 def numberToLcd(num):
